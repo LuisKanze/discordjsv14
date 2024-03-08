@@ -53,7 +53,7 @@ module.exports = {
       .setTitle(`<:kern:1109030899422609408> • System Bot`)
       .setColor(Colors.Orange)
       .setThumbnail(client.user.displayAvatarURL())
-      .setFooter({ text: `Made with ♥️ by Code_dex` })
+      .setFooter({ text: `Made with ♥️ by Vxnsin` })
       .addFields([
         {
           name: `<:person:1077910061910851615> • Zuständig`,
